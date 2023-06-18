@@ -50,7 +50,7 @@ Es cuando se le asigna o un valor a una variable con ayuda del operador de asign
   verdadero = False
 ```
 
-<hr>
+
 
 ## Declaracion de variables en una sola línea
 Se asignarán los valores en el orden correspondiente. 
@@ -71,4 +71,4 @@ print("Genero: ", genero)
 <hr>
 
 ### En la siguiente lección veremos las funciones incorporadas de Python. 
-<hr>
+
