@@ -31,11 +31,11 @@ Cuando declaramos variables debes tener cierto aspectos en cuenta al `nombrarlas
 
 <h2>Notas que recordar👀</h2>
 
-<div style="align-center">
+<div>
     <strong>- Recuerda usar variables mnemotécnicas, es decir que sean cortas, faciles de asociar y recordar.</strong>
 </div>
 <br>
-<div style="align-center">
+<div>
     <strong>- Por convención en Python se usa <mark>Snake_Case</mark>, se usa el guión bajo después de cada palabra para el nombre de la variable que contenga más de una palabra</strong>
 </div>
 <hr>
@@ -55,7 +55,7 @@ Es cuando se le asigna o un valor a una variable con ayuda del operador de asign
 ## Declaracion de variables en una sola línea
 Se asignarán los valores en el orden correspondiente. 
 ```
-nombre, apellido, edad, genero = "Amelia", "Perez", 21, Femenino
+nombre, apellido, edad, genero = "Amelia", "Perez", 21, "Femenino"
 ```
 
 <h2>Visualizar variables</h2>
